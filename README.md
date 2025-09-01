@@ -1,4 +1,4 @@
-# CAPM-Model
+# CAPM-Model(capital asset pricing model)
 In this streamlit application integrated with capm formulation it calculates the ROI(return on investment) with this the user knows the expected return of their desired stocks it includes the procedure on streamlit as follows-
 1.select the stock
 2.select the time period
